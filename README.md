@@ -1,6 +1,6 @@
-# food-recipes
+# A collection of food recipes 
 
-Recipes for cooking
+This is mainly meal prep stuff, extracted by Claude.
 
 - [Lemon Herb Couscous Salad](recipes/lemon-herb-couscous-salad.md)
 - [Lentil and Quinoa Salad](recipes/lentil-quinoa-salad.md)
