@@ -7,3 +7,4 @@ This is mainly meal prep stuff, extracted by Claude.
 - [Lentil Tabbouleh](recipes/lentil-tabbouleh.md)
 - [Mediterranean Orzo Salad](recipes/mediterranean-orzo-salad.md)
 - [Orzo Salad](recipes/orzo-salad.md)
+- [Roasted Veggie Grain Bowl](recipes/roasted-veggie-grain-bowl.md)
