@@ -6,15 +6,15 @@ Serves 12 · 30 min, plus 1 hr chilling
 ## Ingredients
 
 - 16 oz dry orzo pasta
-- 3 cups baby spinach, torn into large pieces
+- 90 g (3 cups) baby spinach, torn into large pieces
 - 1½ red bell peppers, chopped (about 1 pepper)
-- 1 cup diced, seeded cucumber (about 1 medium)
-- ¾ cup diced red onion
+- 120 g (1 cup) diced, seeded cucumber (about 1 medium)
+- 120 g (¾ cup) diced red onion
 - 5 oz Castelvetrano green olives, drained and halved
 - 5 oz Kalamata olives, drained and halved
 - 7 oz feta cheese
-- ½ cup canola oil
-- ¼ cup olive oil
+- 120 ml (½ cup) canola oil
+- 60 ml (¼ cup) olive oil
 - 1 lemon, juiced
 - 1½ tsp dried oregano
 - 1 tsp kosher salt

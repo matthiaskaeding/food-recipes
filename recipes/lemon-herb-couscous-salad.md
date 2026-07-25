@@ -5,17 +5,17 @@ Serves 8 · 20 min
 
 ## Ingredients
 
-- 2 cups dry pearl (Israeli) couscous, 225 g
-- ¼ cup extra-virgin olive oil
+- 225 g (2 cups) dry pearl (Israeli) couscous
+- 60 ml (¼ cup) extra-virgin olive oil
 - 1 tsp Dijon mustard
 - ½ tsp honey
 - 1 tsp finely grated lemon zest
 - 2–4 tbsp fresh lemon juice, to taste
 - 1 medium English cucumber, diced
-- 1 cup chopped tomato, about 1 large tomato
-- ½ cup coarsely chopped fresh herbs (parsley, mint, basil, dill, or a mix)
-- ¼ cup chopped toasted nuts (walnuts, pine nuts, or almonds)
-- ¼ cup golden raisins
+- 180 g (1 cup) chopped tomato, about 1 large tomato
+- 15 g (½ cup) coarsely chopped fresh herbs (parsley, mint, basil, dill, or a mix)
+- 30 g (¼ cup) chopped toasted nuts (walnuts, pine nuts, or almonds)
+- 40 g (¼ cup) golden raisins
 
 ## Method
 

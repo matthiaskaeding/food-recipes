@@ -5,16 +5,16 @@ Serves 8 · 25 min
 
 ## Ingredients
 
-- ½ cup dry lentils
-- 1 cup dry quinoa
+- 100 g (½ cup) dry lentils
+- 170 g (1 cup) dry quinoa
 - ½ red onion, diced
 - 1 red bell pepper, diced
 - 2 tomatoes, seeded and diced
 - ½ cucumber, diced
-- ½ cup fresh parsley, chopped
-- ½ cup crumbled feta cheese
-- ½ cup olive oil
-- ¼ cup lemon juice (about 1 lemon)
+- 15 g (½ cup) fresh parsley, chopped
+- 75 g (½ cup) crumbled feta cheese
+- 120 ml (½ cup) olive oil
+- 60 ml (¼ cup) lemon juice (about 1 lemon)
 - 1 tsp lemon zest
 - 1 tbsp Dijon mustard
 - 1 garlic clove, minced

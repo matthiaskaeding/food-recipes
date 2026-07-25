@@ -7,27 +7,27 @@ Serves 4 · 60 min
 
 ### Quinoa
 
-- 1 cup quinoa, rinsed
-- 1¾ cups water
+- 170 g (1 cup) quinoa, rinsed
+- 420 ml (1¾ cups) water
 
 ### Sauce
 
-- ½ cup pepitas (or shelled raw pistachios)
+- 70 g (½ cup) pepitas (or shelled raw pistachios)
 - 2 small garlic cloves
-- 1 cup packed chopped kale
-- 1 cup packed fresh cilantro, plus more for garnish
-- ¼ cup fresh lemon juice
+- 65 g (1 cup) packed chopped kale
+- 15 g (1 cup) packed fresh cilantro, plus more for garnish
+- 60 ml (¼ cup) fresh lemon juice
 - ½ tsp sea salt, plus more to taste
 - Freshly ground black pepper
-- ½ cup extra-virgin olive oil, plus more for drizzling
-- ½ cup water
+- 120 ml (½ cup) extra-virgin olive oil, plus more for drizzling
+- 120 ml (½ cup) water
 - ½ tsp maple syrup or honey
 
 ### Roasted vegetables
 
 - 2 parsnips, chopped into ½-inch pieces
 - ½ cauliflower, broken into florets
-- 1½ cups Brussels sprouts, halved
+- 130 g (1½ cups) Brussels sprouts, halved
 - 1 bunch broccolini
 - Olive oil, salt, and pepper
 

@@ -7,7 +7,7 @@ Serves 6 · 38 min
 
 ### Dressing
 
-- ¼ cup extra-virgin olive oil
+- 60 ml (¼ cup) extra-virgin olive oil
 - 4 tbsp red wine vinegar
 - 1 garlic clove, minced
 - 1 tsp dried oregano
@@ -18,14 +18,14 @@ Serves 6 · 38 min
 
 ### Salad
 
-- 1½ cups dry orzo pasta
+- 300 g (1½ cups) dry orzo pasta
 - 2 Persian cucumbers, halved lengthwise and sliced ¼-inch thick
-- 2 cups halved cherry tomatoes
-- 1 cup cooked chickpeas, drained and rinsed
+- 300 g (2 cups) halved cherry tomatoes
+- 165 g (1 cup) cooked chickpeas, drained and rinsed
 - 4 oz feta cheese, cut into ¼-inch cubes
-- ⅓ cup thinly sliced red onion
-- ½ cup pitted Kalamata olives
-- 1 cup fresh basil and/or mint leaves
+- 55 g (⅓ cup) thinly sliced red onion
+- 75 g (½ cup) pitted Kalamata olives
+- 20 g (1 cup) fresh basil and/or mint leaves
 
 ## Method
 

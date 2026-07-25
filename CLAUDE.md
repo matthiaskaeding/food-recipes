@@ -55,8 +55,9 @@ Rules for the template:
   the recipe has real components (a sauce, a dough, a topping).
 - Method steps are numbered, one action-cluster each. No step longer than three
   sentences.
-- Convert to metric weights where the source gives volumes for dry goods
-  (flour, sugar, butter). Leave liquids and spoon measures alone.
+- Always convert cup measurements to metric: grams for dry ingredients, millilitres
+  for liquids. Keep the original cup amount in brackets, e.g. `250 g (1 cup) flour`,
+  `240 ml (1 cup) milk`. Leave spoon measures (tsp, tbsp) alone.
 - `Source:` line is never omitted.
 
 ## What counts as fluff
