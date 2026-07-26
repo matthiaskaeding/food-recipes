@@ -9,7 +9,8 @@ When I paste a recipe URL, do all of this without asking for confirmation:
 
 1. Fetch the page.
 2. Extract the recipe, discarding the fluff (see below).
-3. Write `recipes/<slug>.md` using the template below.
+3. Decide which folder it belongs in (see Folders below) and write
+   `<folder>/<slug>.md` using the template below.
 4. Add a line for it to the index in `README.md`, alphabetically.
 5. Commit as `Add <recipe name>` and push to `main`.
 
@@ -18,6 +19,18 @@ source was ambiguous (unclear quantities, missing times, vague step). Don't
 summarize what you did.
 
 If I paste several URLs at once, one file per recipe, one commit for the batch.
+
+## Folders
+
+Recipes are organized into folders by type, at the repo root (no `recipes/`
+wrapper folder):
+
+- `mealprep/` — general recipes, the default for most things.
+- `baby/` — baby and toddler food.
+
+Decide which folder a new recipe belongs in based on what it actually is.
+If none of the existing folders fit, create a new one rather than forcing it
+into the wrong place.
 
 ## Slugs
 
@@ -74,6 +87,7 @@ Quantities and times are facts and come over as-is.
 
 ## Repo conventions
 
-- Recipes live in `recipes/`. No subdirectories by cuisine or course.
+- Recipes live in per-type folders at the repo root (see Folders above), not
+  in a single `recipes/` directory.
 - `README.md` holds the index and nothing else.
 - Commit straight to `main`. No branches, no PRs.
