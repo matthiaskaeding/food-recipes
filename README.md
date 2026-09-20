@@ -4,6 +4,7 @@ This is mainly meal prep stuff, extracted by Claude.
 
 ## Meal Prep
 
+- [Briam (Greek Roasted Vegetables)](mealprep/briam-greek-roasted-vegetables.md)
 - [Italian Rice Salad](mealprep/italian-rice-salad.md)
 - [Lemon Herb Couscous Salad](mealprep/lemon-herb-couscous-salad.md)
 - [Lentil and Quinoa Salad](mealprep/lentil-quinoa-salad.md)
