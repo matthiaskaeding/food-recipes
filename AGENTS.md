@@ -6,7 +6,8 @@ A personal cookbook of recipes saved as clean Markdown.
 
 When the user pastes a recipe URL, use the
 [convert-recipe skill](.agents/skills/convert-recipe/SKILL.md). It contains the
-extraction rules, recipe template, and metric conversion table.
+extraction rules and recipe template, with the metric conversion table in its
+references folder.
 
 1. Convert each recipe and save it as `<folder>/<slug>.md`.
 2. Add each recipe to its section in `README.md`, alphabetically.
