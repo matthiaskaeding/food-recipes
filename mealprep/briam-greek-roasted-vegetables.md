@@ -12,7 +12,7 @@ Serves 6 or more · 20 min prep, 75 to 85 min roasting
 - Scant 1 tsp dried rosemary
 - 35 g (½ cup) chopped parsley
 - 4 garlic cloves, minced
-- 60 ml (¼ cup) extra virgin olive oil, plus extra for serving
+- 60 ml (¼ cup, about 55 g) extra virgin olive oil, plus extra for serving
 - 794 g canned diced tomatoes, including juice
 - 1 large red onion or 2 small, thinly sliced
 
