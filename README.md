@@ -10,6 +10,7 @@ This is mainly meal prep stuff, extracted by Claude.
 - [Lentil and Quinoa Salad](mealprep/lentil-quinoa-salad.md)
 - [Lentil Tabbouleh](mealprep/lentil-tabbouleh.md)
 - [Mediterranean Orzo Salad](mealprep/mediterranean-orzo-salad.md)
+- [Mujadara](mealprep/mujadara.md)
 - [Orzo Salad](mealprep/orzo-salad.md)
 - [Roasted Veggie Grain Bowl](mealprep/roasted-veggie-grain-bowl.md)
 
