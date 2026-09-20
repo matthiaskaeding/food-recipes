@@ -1,7 +1,7 @@
 # Conversion Reference
 
 Approximate cup-to-metric conversions used when writing recipes, per the
-metric conversion rule in `CLAUDE.md`. Liquids convert cleanly by volume;
+metric conversion rule in `AGENTS.md`. Liquids convert cleanly by volume;
 dry and produce weights vary by density and how tightly packed/chopped
 something is, so treat those as reasonable estimates, not exact.
 
