@@ -16,6 +16,26 @@ how an ingredient is chopped or packed.
 | ¼ cup   | 60  |
 | ⅛ cup   | 30  |
 
+## Olive oil by weight
+
+For kitchen measurements, use approximately 0.91 g/ml at room temperature.
+Multiply millilitres by 0.91 to estimate grams. For example, 60 ml weighs about
+55 g. Use this factor for olive oil only; other liquids have different densities.
+
+The [FAO-hosted Codex standard](https://www.fao.org/4/y2774e/y2774e04.htm)
+lists olive oil's relative density as 0.910 to 0.916 at 20°C, compared with water
+at 20°C. The factor above is a rounded cooking approximation.
+
+| Cup   | ml  | Approximate weight |
+| ----- | --- | ------------------ |
+| 1 cup | 240 | 218 g              |
+| ¾ cup | 180 | 164 g              |
+| ⅔ cup | 160 | 146 g              |
+| ½ cup | 120 | 109 g              |
+| ⅓ cup | 80  | 73 g               |
+| ¼ cup | 60  | 55 g               |
+| ⅛ cup | 30  | 27 g               |
+
 ## Baking staples
 
 | Ingredient        | 1 cup |
