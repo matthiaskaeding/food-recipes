@@ -16,3 +16,7 @@ This is mainly meal prep stuff, extracted by Claude.
 ## Baby
 
 - [Beef & Sweet Potato Meatballs (with Oats)](baby/beef-sweet-potato-meatballs.md)
+
+## Instant Pot
+
+- [Instant Pot Eggs](instant-pot/eggs.md)
