@@ -1,6 +1,8 @@
-# A collection of food recipes 
+# A collection of food recipes
 
 This is mainly meal prep stuff, extracted by Claude.
+
+Browse the categories below to open individual recipes.
 
 ## Meal Prep
 
