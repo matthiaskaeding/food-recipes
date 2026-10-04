@@ -12,6 +12,7 @@ This is mainly meal prep stuff, extracted by Claude.
 - [Mediterranean Orzo Salad](mealprep/mediterranean-orzo-salad.md)
 - [Orzo Salad](mealprep/orzo-salad.md)
 - [Roasted Veggie Grain Bowl](mealprep/roasted-veggie-grain-bowl.md)
+- [Spicy Canned Salmon Rice Bowl](mealprep/spicy-canned-salmon-rice-bowl.md)
 
 ## Baby
 
